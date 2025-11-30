@@ -1,0 +1,20 @@
+{
+    "name": "Sharkscope Inject Player",
+    "description": "Opening player stats via external URL link adds player to most recent open player stats page",
+    "version": "1.1",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": "sharkscope_inject.png"
+    },
+    "permissions": ["tabs"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.sharkscope.com/*"],
+            "js": ["content.js"],
+            "run_at": "document_idle"
+        }
+    ]
+}
