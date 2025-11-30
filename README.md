@@ -1,1 +1,1 @@
-# sharkscope-redirect-player-stats-chrome-extension
+# sharkscope-redirect-player-stats-browser-extension
