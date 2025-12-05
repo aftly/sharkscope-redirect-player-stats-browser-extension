@@ -13,17 +13,17 @@
 
 </div>
 
-## 🎥 Promo
+## YouTube Promo Video
 [![Watch the video](https://img.youtube.com/vi/xHmNxB0FscE/maxresdefault.jpg)](https://www.youtube.com/watch?v=xHmNxB0FscE)
 <br>
 
-## 💿 Installation
-[<img src="assets/Chromium_Logo.svg" 
+## Installation
+[<img src="assets/Google_Chrome_Web_Store_icon_2022.svg" 
     alt="Get it on Chrome Web Store" 
-    height="128">](https://chromewebstore.google.com/detail/sharkscope-redirect-playe/hhmmighfnoemdnlpcahpchbbojfobkbh)
+    height="64">](https://chromewebstore.google.com/detail/sharkscope-redirect-playe/hhmmighfnoemdnlpcahpchbbojfobkbh)
 <br>
 
-## ⭐ Features
+## Features
 - Opening a player's stats on Sharkscope via an external weblink adds the player to the list in the most recently selected tab with a Sharkscope player stats page open, if it exists.
 - Most recently selected tab is determined via the timestamp of when the tab was created or selected from another tab in the same window **(whichever is latest)**
 - If most recent player stats tab is not selected upon redirect, the tab will reselect
