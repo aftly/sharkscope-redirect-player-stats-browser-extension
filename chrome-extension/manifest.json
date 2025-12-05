@@ -1,7 +1,7 @@
 {
     "name": "Sharkscope Redirect Player Stats",
     "description": "Opening player stats via external URL link adds player to most recent open player stats page.",
-    "version": "1.2",
+    "version": "1.3",
     "manifest_version": 3,
     "action": {
         "default_icon": "sharkscope_add.png"
