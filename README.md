@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 📈 SharkScope Redirect Player Stats ↩️
+# SharkScope Redirect Player Stats 📈 ↩️
 
 [![SharkScope](https://img.shields.io/badge/Sharkscope-Platform?label=Platform&color=1875a3)](https://www.sharkscope.com/)
 [![Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download?label=Download&color=62a900)](https://chromewebstore.google.com/detail/sharkscope-redirect-playe/hhmmighfnoemdnlpcahpchbbojfobkbh)
