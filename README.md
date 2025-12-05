@@ -13,7 +13,7 @@
 
 </div>
 
-## YouTube Promo Video
+## Promo Video (YouTube)
 [![Watch the video](https://img.youtube.com/vi/xHmNxB0FscE/maxresdefault.jpg)](https://www.youtube.com/watch?v=xHmNxB0FscE)
 <br>
 
