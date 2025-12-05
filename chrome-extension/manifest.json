@@ -4,7 +4,7 @@
     "version": "1.2",
     "manifest_version": 3,
     "action": {
-        "default_icon": "sharkscope_inject.png"
+        "default_icon": "sharkscope_add.png"
     },
     "permissions": ["tabs"],
     "background": {

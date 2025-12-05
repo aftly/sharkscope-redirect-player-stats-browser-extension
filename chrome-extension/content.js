@@ -9,11 +9,11 @@ chrome.runtime.onMessage.addListener((msg) => {
     if (!networkButton) return;
     
     const playerField = document.querySelector("#FindString");
-    // If network button not found exit
+    // If player field not found exit
     if (!playerField) return;
 
     const submitButton = document.querySelector("#Player-Statistics-Button");
-    // If network button not found exit
+    // If submit button not found exit
     if (!submitButton) return; 
 
     // Select network
