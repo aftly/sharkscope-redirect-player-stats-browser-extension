@@ -21,6 +21,7 @@
 [<img src="assets/Google_Chrome_Web_Store_icon_2022.svg" 
     alt="Get it on Chrome Web Store" 
     height="64">](https://chromewebstore.google.com/detail/sharkscope-redirect-playe/hhmmighfnoemdnlpcahpchbbojfobkbh)
+[via the Chrome Web Store](https://chromewebstore.google.com/detail/sharkscope-redirect-playe/hhmmighfnoemdnlpcahpchbbojfobkbh)
 <br>
 
 ## Features
