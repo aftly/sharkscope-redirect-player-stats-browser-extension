@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# ♠️ Sharkscope Redirect Player Stats 📈 ↩️
+# 📈 SharkScope Redirect Player Stats ↩️
 
-[![Chrome](https://img.shields.io/badge/Chromium-Platform?label=Platform&color=5694f5)](https://www.chromium.org/Home/)
+[![SharkScope](https://img.shields.io/badge/Sharkscope-Platform?label=Platform&color=1875a3)](https://www.sharkscope.com/)
 [![Web Store](https://img.shields.io/badge/Chrome_Web_Store-Download?label=Download&color=62a900)](https://chromewebstore.google.com/detail/sharkscope-redirect-playe/hhmmighfnoemdnlpcahpchbbojfobkbh)
 [![Latest release version](https://img.shields.io/github/v/release/aftly/sharkscope-redirect-player-stats-browser-extension?include_prereleases&color=dc5d18)](https://github.com/aftly/sharkscope-redirect-player-stats-browser-extension/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/aftly/sharkscope-redirect-player-stats-browser-extension/blob/main/LICENSE)
@@ -14,13 +14,13 @@
 </div>
 
 ## 🎥 Promo
-- https://www.youtube.com/watch?v=xHmNxB0FscE
+[![Watch the video](https://img.youtube.com/vi/xHmNxB0FscE/maxresdefault.jpg)](https://www.youtube.com/watch?v=xHmNxB0FscE)
 <br>
 
 ## 💿 Installation
-[<img src="Chromium_Logo.svg" 
+[<img src="assets/Chromium_Logo.svg" 
     alt="Get it on Chrome Web Store" 
-    height="80">](https://chromewebstore.google.com/detail/sharkscope-redirect-playe/hhmmighfnoemdnlpcahpchbbojfobkbh)
+    height="128">](https://chromewebstore.google.com/detail/sharkscope-redirect-playe/hhmmighfnoemdnlpcahpchbbojfobkbh)
 <br>
 
 ## ⭐ Features
