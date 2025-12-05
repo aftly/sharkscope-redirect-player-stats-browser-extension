@@ -1,3 +1,8 @@
 # Packed extension files
 *.crx
+
+# Extension private key files
 *.pem
+
+# Extension zip files
+*.zip
